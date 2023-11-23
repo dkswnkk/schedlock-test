@@ -1,2 +1,2 @@
-# schedlock-test
-schedlock-test
+# shedlock-test
+shedlock-test
